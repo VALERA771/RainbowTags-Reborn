@@ -1,4 +1,4 @@
-![Github All Downloads](https://img.shields.io/github/downloads/VALERA771/RaibowTags-Reborn/total.svg?style=flat)
+![Github All Downloads](https://img.shields.io/github/downloads/VALERA771/RainbowTags-Reborn/total.svg?style=flat)
 
 # RainbowTags
 EXILED port of RainbowTags, [originally](https://github.com/BuildBoy12-SL/RainbowTags) Makes server badges go through a spectrum of colours in SCP:SL. 
